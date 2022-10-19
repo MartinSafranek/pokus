@@ -1,3 +1,4 @@
 radek 1
 prvni soubor
 druhyradek
+nova funkce
