@@ -1,4 +1,4 @@
 druhy soubor
 rgh
 poseldni radek druheho souboru
-nova funce
+nova funceafgage
