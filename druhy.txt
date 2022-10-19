@@ -1,2 +1,3 @@
 druhy soubor
 rgh
+poseldni radek druheho souboru
