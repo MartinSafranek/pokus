@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 prvni radek
 54836486436
 hjkl
+=======
+54836486436
+posledni radek
+>>>>>>> refs/remotes/origin/main
